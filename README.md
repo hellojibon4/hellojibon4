@@ -1,7 +1,7 @@
 ![logo](https://github.com/hellojibon4/hellojibon4/blob/main/LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm JIBON-AHMAD</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">Web Developer | Expert in HTML, CSS, JavaScript, React.js, Tailwind CSS & Node.js | Building Modern Web Apps</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/hellojibon4/hellojibon4/blob/main/code.gif">
 
@@ -64,5 +64,6 @@
 </p>
 
 ---
+
 
 
