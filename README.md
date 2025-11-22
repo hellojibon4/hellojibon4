@@ -1,4 +1,4 @@
-![logo](https://github.com/hellojibon4/JIBON-AHMAD/blob/main/github-banner.png?raw=true)
+![logo](https://github.com/hellojibon4/hellojibon4/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm JIBON-AHMAD</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -30,6 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellojibon4&show_icons=true&locale=en" alt="hellojibon4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellojibon4&" alt="hellojibon4" /></p>
+
 
 
 
