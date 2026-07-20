@@ -2,7 +2,7 @@
   <img src="https://github.com/hellojibon4/hellojibon4/blob/main/LinkedIn%20Banner.png" width="100%" alt="Banner"/>
   
   <h1>Hi 👋, I'm JIBON AHMAD</h1>
-  <h3>🚀 Frontend Web Developer | Modern UI/UX Builder</h3>
+  <h3>🚀 Web Developer | Modern Web App Builder</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=hellojibon4&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
@@ -15,15 +15,10 @@
 
 <img align="right" alt="coding" width="350" src="https://github.com/hellojibon4/hellojibon4/blob/main/code.gif">
 
-- 🎓 **Education:** Studying Computer Science & Web Technologies with a strong focus on frontend web development.
-- 💼 **Experience:** 1+ year of hands-on experience building modern, responsive, and user-friendly web applications.
-- 🔭 **Current Focus:** Crafting dynamic React single-page applications, clean interfaces, and functional frontend dashboards.
-- 🌱 **Deepening Skills:** Advanced React patterns, clean code structures, and web performance optimization.
-- 🚀 **Exploring:** Learning **Next.js** for server-side rendering and fast user experience delivery.
-- 💡 **Philosophy:** I love writing reusable components, building modern layouts, and solving real-world design problems.
+- 💻 **Expertise:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS & Node.js
 - 🌐 **Portfolio:** Check out my projects at [jibonahmad02.netlify.app](https://jibonahmad02.netlify.app/)
-- 📬 **Reach Me:** Open to frontend roles! Drop an email at [hellojibon4@gmail.com](mailto:hellojibon4@gmail.com)
-- ⚡ **Fun Fact:** I balance critical frontend logic with a great sense of humor! 😅
+- 📬 **Reach Me:** Drop an email at [hellojibon4@gmail.com](mailto:hellojibon4@gmail.com)
+- ⚡ **Fun Fact:** I balance heavy coding with a great sense of humor! 😅
 
 <br>
 
@@ -37,6 +32,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
