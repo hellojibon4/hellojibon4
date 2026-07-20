@@ -13,7 +13,7 @@
 
 ### 👤 About Me
 
-<img align="right" alt="coding" width="350" src="https://github.com/hellojibon4/hellojibon4/blob/main/code.gif">
+<!-- <img align="right" alt="coding" width="350" src="https://github.com/hellojibon4/hellojibon4/blob/main/code.gif"> -->
 
 - 🎓 **Education:** Studying Computer Science & Web Technologies with a strong focus on frontend web development.
 - 💼 **Experience:** 1+ year of hands-on experience building modern, responsive, and user-friendly web applications.
