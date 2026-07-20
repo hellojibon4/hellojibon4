@@ -2,8 +2,8 @@
   <img src="https://github.com/hellojibon4/hellojibon4/blob/main/LinkedIn%20Banner.png" width="100%" alt="Banner"/>
   
   <h1>Hi 👋, I'm JIBON AHMAD</h1>
-  <!-- <h3>🚀 Frontend Web Developer | Modern Web App Builder</h3> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0AAFFF&center=true&vCenter=true&width=850&height=70&lines=MERN+Stack+Developer;Frontend+Web+Developer;Building+Modern+%26+User-Friendly+Apps;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Real-Time+%26+AI-Powered+Applications" />
+  <h3>🚀 Frontend Web Developer | Modern Web App Builder</h3>
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0AAFFF&center=true&vCenter=true&width=850&height=70&lines=MERN+Stack+Developer;Frontend+Web+Developer;Building+Modern+%26+User-Friendly+Apps;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Real-Time+%26+AI-Powered+Applications" /> -->
   
 </div>
 
